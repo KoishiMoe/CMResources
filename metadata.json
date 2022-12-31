@@ -1,24 +1,28 @@
 {
-    "colleges": {
-        "sample": {
+    "colleges": [
+        {
+            "name": "sample",
             "zh_CN": "示例",
             "en_US": "sample"
         }
-    },
-    "grades": {
-        "u2022": {
+    ],
+    "grades": [
+        {
+            "name": "u2022",
             "zh_CN": "本科2022",
             "en_US": "Undergraduate 2022"
         },
-        "g2022": {
+        {
+            "name": "g2022",
             "zh_CN": "研究生2022",
             "en_US": "Graduate 2022"
         }
-    },
-    "types": {
-        "sample": {
+    ],
+    "types": [
+        {
+            "name": "sample",
             "zh_CN": "示例",
             "en_US": "sample"
         }
-    }
+    ]
 }
