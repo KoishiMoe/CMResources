@@ -7,5 +7,14 @@
         "grade": "u2022",
         "type": "sample",
         "file_ext": "jpg"
+    },
+    {
+        "uuid": "b3620671-cadf-4745-9b48-faa70f2de41b",
+        "zh_CN": "加里敦高等职业教育学院第114514届奖学金评定方案",
+        "en_US": "",
+        "college": "jialidun",
+        "grade": "g2022",
+        "type": "jiangxuejin114514",
+        "file_ext": "txt"
     }
 ]

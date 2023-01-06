@@ -4,6 +4,11 @@
             "name": "sample",
             "zh_CN": "示例",
             "en_US": "sample"
+        },
+        {
+            "name": "jialidun",
+            "zh_CN": "加里敦学院",
+            "en_US": "Home College"
         }
     ],
     "grades": [
@@ -23,6 +28,10 @@
             "name": "sample",
             "zh_CN": "示例",
             "en_US": "sample"
+        },
+        {
+            "name": "jiangxuejin114514",
+            "zh_CN": "第114514届奖学金"
         }
     ]
 }
